@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <defs>
+    <style>
+      @keyframes sunRotate {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes bunnyHop {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes textColor {
+        0%, 100% { fill: #FF9999; }
+        50% { fill: #FFD700; }
+      }
+    </style>
+  </defs>
+  
+  <!-- Sun -->
+  <g transform="translate(200,100)">
+    <circle cx="0" cy="0" r="80" fill="#FFD700" />
+    <g style="animation: sunRotate 20s linear infinite;">
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(45)" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(90)" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(135)" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(180)" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(225)" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(270)" />
+      <path d="M0,-90 L10,-80 L0,-70 L-10,-80 Z" fill="#FFA500" transform="rotate(315)" />
+    </g>
+  </g>
+  
+  <!-- Bunny -->
+  <g style="animation: bunnyHop 2s ease-in-out infinite;">
+    <!-- Body -->
+    <ellipse cx="200" cy="120" rx="60" ry="50" fill="#FFFFFF" />
+    
+    <!-- Head -->
+    <circle cx="200" cy="70" r="40" fill="#FFFFFF" />
+    
+    <!-- Ears -->
+    <path d="M170,50 Q180,10 200,40 Q220,10 230,50" fill="#FFFFFF" />
+    
+    <!-- Eyes -->
+    <circle cx="190" cy="65" r="5" fill="#000000" />
+    <circle cx="210" cy="65" r="5" fill="#000000" />
+    
+    <!-- Nose -->
+    <circle cx="200" cy="75" r="3" fill="#FF9999" />
+    
+    <!-- Mouth -->
+    <path d="M195,80 Q200,85 205,80" fill="none" stroke="#000000" stroke-width="2" />
+  </g>
+  
+  <!-- Text -->
+  <text x="200" y="190" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" style="animation: textColor 4s ease-in-out infinite;">
+    BUNNYSUNNY24
+  </text>
+</svg>
