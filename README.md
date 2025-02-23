@@ -16,7 +16,7 @@ C, C++, Java, Python, HTML, JavaScript, React, Node.js, MongoDB, MySQL, APIs, Ve
 - **📚 QuestEd** – AI-powered personalized learning platform.
 - **📄 EduDoc** – Doctor and patient helper.
 - **🏫 School Website** – Comprehensive digital platform for schools.
-- **💧 IoT-Integrated Water Conservation** – Smart system for efficient water usage.
+- **💧 BluePulse (IoT-Integrated Water Conservation)** – Smart system for efficient water usage.
 - **🚗 Project OnboardX – Intelligent Vehicle Monitoring System** - An IoT-powered solution integrating ESP32, Raspberry Pi, FastAPI, and React to monitor real-time vehicle data, detect anomalies, and send emergency alerts for rapid response.
 
 ## 🎯 Let’s Build Something Awesome!
