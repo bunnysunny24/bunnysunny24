@@ -1,6 +1,6 @@
-![My GIF](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
-
 # 👋 Hey there!
+
+![Welcome GIF](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
 
 I’m a software engineer passionate about building smart and impactful tech solutions.
 
