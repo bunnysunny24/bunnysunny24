@@ -1,5 +1,5 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-<br><br>
+![My GIF](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif)
+
 # 👋 Hey there!
 
 I’m a software engineer passionate about building smart and impactful tech solutions.
