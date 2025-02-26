@@ -6,7 +6,13 @@ I’m a software engineer passionate about building smart and impactful tech sol
 ## 🚀 What I Do
 
 ### 💻 Tech Stack
-C, C++, Java, Python, HTML, JavaScript, React, Node.js, MongoDB, MySQL, APIs, Vercel, Git.
+**Programming:** C, C++, Java, Python, JavaScript, TypeScript  
+**Web & Database:** HTML, CSS, MySQL, MongoDB, Firebase, Supabase, APIs  
+**Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Node.js, Flask, FastAPI, Numpy, Pandas, Sklearn, Matplotlib  
+**Tech Tools:** Git, Docker, Figma, GUI, Visual Studio  
+**Embedded Systems & IoT:** Arduino, ESP32, IoT Sensors  
+**Deployment:** Vercel, Docker  
+**Cloud Computing:** Firebase, Supabase  
 
 ## 🔥 Projects
 
