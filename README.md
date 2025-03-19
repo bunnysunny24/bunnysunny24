@@ -17,7 +17,7 @@ I’m a software engineer passionate about building smart and impactful tech sol
 **Embedded Systems & IoT**: Arduino, ESP32, IoT Sensors 
 **Deployment**: Vercel, Docker, Uvicorn
 **Cloud Computing**: Firebase, Supabase
-**Blockchain & Decentralized Tech**: Solidity, Truffle Suite, Ganache, Ethereum Testnet 
+**Blockchain & Decentralized Tech**: Solidity, Truffle Suite, Ganache, Ethereum Testnet.
 
 ## 🔥 Projects
 
