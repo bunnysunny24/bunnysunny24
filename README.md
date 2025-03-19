@@ -9,13 +9,15 @@ I’m a software engineer passionate about building smart and impactful tech sol
 ## 🚀 What I Do
 
 ### 💻 Tech Stack
-**Programming:** C, C++, Java, Python, JavaScript, TypeScript  
-**Web & Database:** HTML, CSS, MySQL, MongoDB, Firebase, Supabase, APIs  
-**Frameworks & Libraries:** React.js, Next.js, Tailwind CSS, Node.js, Flask, FastAPI, Numpy, Pandas, Sklearn, Matplotlib, Tensorflow
-**Tech Tools:** Git, Docker, Figma, GUI, Visual Studio  
-**Embedded Systems & IoT:** Arduino, ESP32, IoT Sensors  
-**Deployment:** Vercel, Docker  
-**Cloud Computing:** Firebase, Supabase  
+**Programming**: C, C++, Java, Python, JavaScript, TypeScript, Solidity
+**Web & Database**: HTML, CSS, MySQL, MongoDB, Firebase, Supabase, APIs
+**Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Node.js, Flask, FastAPI, Numpy, Pandas, Scikit-learn, Matplotlib, TensorFlow, Keras, XGBoost, OpenCV, Web3.js, Truffle
+**Mobile Development**: Flutter
+**Tech Tools**: Git, Docker, Figma, GUI, Visual Studio
+**Embedded Systems & IoT**: Arduino, ESP32, IoT Sensors 
+**Deployment**: Vercel, Docker, Uvicorn
+**Cloud Computing**: Firebase, Supabase
+**Blockchain & Decentralized Tech**: Solidity, Truffle Suite, Ganache, Ethereum Testnet 
 
 ## 🔥 Projects
 
@@ -26,6 +28,7 @@ I’m a software engineer passionate about building smart and impactful tech sol
 - **🏫 School Website** – Comprehensive digital platform for schools.
 - **💧 BluePulse (IoT-Integrated Water Conservation)** – Smart system for efficient water usage.
 - **🚗 Project OnboardX – Intelligent Vehicle Monitoring System** - An IoT-powered solution integrating ESP32, Raspberry Pi, FastAPI, and React to monitor real-time vehicle data, detect anomalies, and send emergency alerts for rapid response.
+- **🌾 AgriSync** -  AI-Powered Smart Farming & Blockchain Marketplace – A full-stack agriculture platform using FastAPI, React, TensorFlow, and Ethereum to detect plant diseases, predict crop prices, forecast weather, and enable transparent crop transactions through blockchain smart contracts.
 
 ## 🎯 Let’s Build Something Awesome!
 Always open to collaborations—let’s connect! 🚀
