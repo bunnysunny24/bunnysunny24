@@ -6,7 +6,6 @@
 # 👋 Hey there!
 I’m a software engineer passionate about building smart and impactful tech solutions.
 
-## 🚀 What I Do
 
 ### 💻 Tech Stack  
 **Programming**: C, C++, Java, Python, JavaScript, TypeScript, Solidity  
