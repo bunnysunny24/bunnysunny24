@@ -9,15 +9,13 @@ I’m a software engineer passionate about building smart and impactful tech sol
 ## 🚀 What I Do
 
 ### 💻 Tech Stack  
-**Programming**: C, C++, Java, Python, JavaScript, TypeScript, 
-**Web & Database**: HTML, CSS, MySQL, MongoDB,, APIs  
-**Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Node.js, Flask, FastAPI, Numpy, Pandas, Scikit-learn, Matplotlib, TensorFlow, Keras, XGBoost, OpenCV, Web3.js, Truffle  
+**Languages**: C, C++, Java, Python, JavaScript  
+**Web and Database**: HTML, CSS, MySQL, MongoDB, React.js, Tailwind CSS, Node.js, Figma, FastAPI, Flask, Firebase  
 **Mobile Development**: Flutter  
-**Tech Tools**: Git, Docker, Figma, GUI, Visual Studio  
+**Deployment**: Git, Vercel, Docker, Uvicorn  
 **Embedded Systems & IoT**: Arduino, ESP32, IoT Sensors  
-**Deployment**: Vercel, Docker, Uvicorn  
-**Cloud Computing**: Firebase, Supabase  
-**Blockchain & Decentralized Tech**: Solidity, Truffle Suite, Ganache, Ethereum Testnet  
+**Blockchain & Decentralization**: Solidity, Truffle, Ganache, Ethereum  
+**Machine Learning**: TensorFlow, Pandas, Keras, Scikit-Learn, Numpy, OpenCV, NLP, Matplotlib  
 
 
 ## 🔥 Projects
