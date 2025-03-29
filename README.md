@@ -27,7 +27,7 @@ I’m a software engineer passionate about building smart and impactful tech sol
 - **🏫 School Website** – Comprehensive digital platform for schools.
 - **💧 BluePulse (IoT-Integrated Water Conservation)** – Smart system for efficient water usage.
 - **🚗 Project OnboardX – Intelligent Vehicle Monitoring System** - An IoT-powered solution integrating ESP32, Raspberry Pi, FastAPI, and React to monitor real-time vehicle data, detect anomalies, and send emergency alerts for rapid response.
-- **🌾 AgriSync** -  AI-Powered Smart Farming & Blockchain Marketplace – A full-stack agriculture platform using FastAPI, React, TensorFlow, and Ethereum to detect plant diseases, predict crop prices, forecast weather, and enable transparent crop transactions through blockchain smart contracts.
+- **🌾 AgriSync** -  AI-Powered Smart Farming & Blockchain Marketplace
 
 ## 🎯 Let’s Build Something Awesome!
 Always open to collaborations—let’s connect! 🚀
