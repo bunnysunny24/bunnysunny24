@@ -15,7 +15,6 @@ name: Bhavashesh Dachapalli
 role: AI/ML Engineer & Full-Stack Developer
 experience: "4+ smart applications in IoT, EdTech, and AgriTech"
 specialization: ["FastAPI", "React", "TensorFlow", "IoT Systems"]
-achievements: ["Red Bull Basement Winner", "Smart India Hackathon Qualifier"]
 impact: "Platforms serving 130+ users with 30%+ model accuracy gains"
 focus: "Building scalable solutions that solve real-world problems"
 ```
@@ -108,31 +107,14 @@ focus: "Building scalable solutions that solve real-world problems"
 
 ---
 
-## 🏆 **Development Achievements**
-
-<div align="center">
-
-| 🏅 Achievement | Project/Competition | Recognition | Year |
-|----------------|-------------------|-------------|------|
-| **🥇 1st Place** | Red Bull Basement | VibeOut AI Fitness Assistant | 2024 |
-| **🏆 Qualifier** | Smart India Hackathon | Advanced to National Level | 2024 |
-| **🥉 3rd Place** | Enduraverse'25 Hackathon | BluePulse IoT Solution | 2025 |
-| **🏅 Top 10** | TEM-E-THON'25 | OnboardX Vehicle Monitoring | 2025 |
-
-</div>
-
----
-
 ## 💻 **Development Stats**
 
 ```python
 class DeveloperStats:
     def __init__(self):
-        self.projects_completed = 6
-        self.users_impacted = "130+"
-        self.hackathon_wins = 4
+        self.projects_completed = 10+
         self.model_accuracy_improvement = "30%+"
-        self.technologies_mastered = 25
+        self.technologies_mastered = 10+
         self.lines_of_code = "50,000+"
         
     def current_focus(self):
@@ -172,7 +154,7 @@ class DeveloperStats:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavashesh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavashesh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://bhavashesh.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-new-theta-eight.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BunnySunny24)
 
 </div>
