@@ -15,7 +15,7 @@ name: Bhavashesh Dachapalli
 role: AI/ML Engineer & Full-Stack Developer
 experience: "4+ smart applications in IoT, EdTech, and AgriTech"
 specialization: ["FastAPI", "React", "TensorFlow", "IoT Systems"]
-achievements: ["Red Bull Basement Winner", "Smart India Hackathon Finalist"]
+achievements: ["Red Bull Basement Winner", "Smart India Hackathon Qualifier"]
 impact: "Platforms serving 130+ users with 30%+ model accuracy gains"
 focus: "Building scalable solutions that solve real-world problems"
 ```
@@ -115,7 +115,7 @@ focus: "Building scalable solutions that solve real-world problems"
 | 🏅 Achievement | Project/Competition | Recognition | Year |
 |----------------|-------------------|-------------|------|
 | **🥇 1st Place** | Red Bull Basement | VibeOut AI Fitness Assistant | 2024 |
-| **🏆 National Finalist** | Smart India Hackathon | Advanced to National Level | 2024 |
+| **🏆 Qualifier** | Smart India Hackathon | Advanced to National Level | 2024 |
 | **🥉 3rd Place** | Enduraverse'25 Hackathon | BluePulse IoT Solution | 2025 |
 | **🏅 Top 10** | TEM-E-THON'25 | OnboardX Vehicle Monitoring | 2025 |
 
