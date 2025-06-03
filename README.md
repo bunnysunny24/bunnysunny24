@@ -76,19 +76,16 @@ focus: "Building scalable solutions that solve real-world problems"
 
 <div align="center">
 
-### **🏆 Competition Winners**
-| Project | Achievement | Impact | Tech Stack | Links |
-|---------|-------------|--------|------------|-------|
-| **🎯 VibeOut** | 🥇 Red Bull Basement Winner | 93% user satisfaction | React, FastAPI, ML, Google API | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/VibeOut) [![Demo](https://img.shields.io/badge/Demo-FF5722?style=flat&logo=firefox&logoColor=white)](#) |
-| **💧 BluePulse** | 🥉 Enduraverse'25 (Top 6) | 22% waste reduction | ESP32, IoT, React, ML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/BluePulse) |
-| **🚗 OnboardX** | 🏅 TEM-E-THON'25 Finalist | 94% detection precision | ESP32, Raspberry Pi, FastAPI | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/OnboardX) |
+## 🚀 **My Featured Projects**
 
-### **💼 Production Applications**
-| Project | Description | Users/Impact | Tech Stack | Links |
-|---------|-------------|--------------|------------|-------|
-| **🌾 AgriSync** | Smart Farming + Blockchain Marketplace | 89% spoilage reduction | FastAPI, React, TensorFlow, Ethereum | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/AgriSync) |
-| **📚 QuestEd** | AI-Powered Learning Platform | 130+ users, 27% score boost | FastAPI, Gemini API, React | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/QuestEd) |
-| **🌱 Smart-AgriCulture** | IoT Precision Agriculture | 25-30% crop health improvement | ESP32, Firebase, ML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/Smart-AgriCulture) |
+| Project | Description | Impact | Tech Stack | Links |
+|---------|-------------|--------|------------|-------|
+| **🎯 VibeOut** | Emotion-Based Workout Assistant | 93% user satisfaction rate | React, Tailwind CSS, FastAPI, Node.js, Google API | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/VibeOut) [![Demo](https://img.shields.io/badge/Demo-FF5722?style=flat&logo=firefox&logoColor=white)](#) |
+| **🌾 AgriSync** | Smart Farming Platform with AI & Blockchain | 89% crop spoilage reduction | FastAPI, React, TensorFlow, Ethereum | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/AgriSync) |
+| **🚗 OnboardX** | Vehicle Anomaly Detection & Alert System | 94% anomaly detection precision | ESP32, Sensors, Raspberry Pi, FastAPI, React, Firebase | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/OnboardX) |
+| **💧 BluePulse** | IoT-Based Water Conservation System | 22% water waste reduction | IoT, React, ML, FastAPI | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/BluePulse) |
+| **📚 QuestEd** | Personalized Learning Platform | 130+ users, 27% quiz score improvement | FastAPI, Gemini AI, React, Firebase | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/QuestEd) |
+| **🌱 Smart-AgriCulture** | IoT-Based Precision Agriculture | 25-30% crop health improvement | ESP32, Firebase, FastAPI, React, ML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/Smart-AgriCulture) |
 
 </div>
 
