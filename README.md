@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Bhavashesh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Full-Stack+Developer;Building+Smart+Solutions+with+Code+%F0%9F%9A%80;4%2B+Applications+%7C+130%2B+Users+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Bhavashesh+%F0%9F%91%8B;Backend+Engineer+%7C+ML+Enthusiast;Building+Scalable+Solutions+%F0%9F%9A%80;150%2B+Problems+Solved+%7C+Hackathon+Winner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -11,12 +11,13 @@
 ## 🎯 **About Me**
 
 ```yaml
-name: Bhavashesh Dachapalli
-role: AI/ML Engineer & Full-Stack Developer
-experience: "4+ smart applications in IoT, EdTech, and AgriTech"
-specialization: ["FastAPI", "React", "TensorFlow", "IoT Systems"]
-impact: "Platforms serving 130+ users with 30%+ model accuracy gains"
-focus: "Building scalable solutions that solve real-world problems"
+name: Dachapalli Bhavashesh
+role: Backend Developer & Machine Learning Engineer
+education: "B.Tech CSE @ SRMIST (CGPA: 9.56/10)"
+experience: "Samsung Prism R&D Intern"
+specialization: ["Spring Boot", "Docker", "AWS", "Deep Learning"]
+achievements: "Red Bull Basement Top 3 | Enduraverse'25 Runner-Up"
+focus: "Building scalable microservices and ML-powered systems"
 ```
 
 ---
@@ -26,47 +27,38 @@ focus: "Building scalable solutions that solve real-world problems"
 <div align="center">
 
 ### **Languages & Core Technologies**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### **Frontend & UI/UX**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### **Backend & APIs**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### **Backend & Frameworks**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### **Frontend & UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+### **Machine Learning & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### **IoT & Embedded Systems**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-
-### **DevOps & Tools**
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **Tools & Others**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 </div>
 
@@ -76,18 +68,26 @@ focus: "Building scalable solutions that solve real-world problems"
 
 <div align="center">
 
-## 🚀 **My Featured Projects**
-
-| Project | Description | Impact | Tech Stack | Links |
-|---------|-------------|--------|------------|-------|
-| **🎯 VibeOut** | Emotion-Based Workout Assistant | 93% user satisfaction rate | React, Tailwind CSS, FastAPI, Node.js, Google API | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/VibeOut) [![Demo](https://img.shields.io/badge/Demo-FF5722?style=flat&logo=firefox&logoColor=white)](#) |
-| **🌾 AgriSync** | Smart Farming Platform with AI & Blockchain | 89% crop spoilage reduction | FastAPI, React, TensorFlow, Ethereum | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/AgriSync) |
-| **🚗 OnboardX** | Vehicle Anomaly Detection & Alert System | 94% anomaly detection precision | ESP32, Sensors, Raspberry Pi, FastAPI, React, Firebase | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/OnboardX) |
-| **💧 BluePulse** | IoT-Based Water Conservation System | 22% water waste reduction | IoT, React, ML, FastAPI | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/BluePulse) |
-| **📚 QuestEd** | Personalized Learning Platform | 130+ users, 27% quiz score improvement | FastAPI, Gemini AI, React, Firebase | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/QuestEd) |
-| **🌱 Smart-AgriCulture** | IoT-Based Precision Agriculture | 25-30% crop health improvement | ESP32, Firebase, FastAPI, React, ML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/Smart-AgriCulture) |
+| Project | Description | Tech Stack | Impact |
+|---------|-------------|------------|--------|
+| **🎭 DeepFake Audio-Video Detection** | Multimodal deepfake detection system | PyTorch, Swin Transformers, Wav2Vec2, EfficientNet, OpenCV, AWS EC2 | 94% accuracy on face swap, lip-sync detection |
+| **🏢 Department & Employee Management** | Full-stack CRUD system with relational data | Spring Boot, Spring Data JPA, MySQL, React | Efficient employee-department management |
+| **✅ TaskMate** | Secure task management platform | Spring Boot, Spring Security, JWT, MySQL, React | Role-based authentication & multi-user support |
 
 </div>
+
+---
+
+## 💼 **Professional Experience**
+
+### Samsung Prism R&D Intern
+**Samsung R&D Institute India, Bangalore** | *March 2025 – Present*
+
+- Analyzed multimodal datasets achieving 94%+ accuracy in anomaly detection
+- Designed scalable ML pipelines with Docker on Linux environments
+- Optimized workflows using GPU acceleration, reducing training time significantly
+- Implemented explainability methods for improved model transparency
+- Collaborated in Agile teams aligning technical solutions with business goals
 
 ---
 
@@ -104,32 +104,78 @@ focus: "Building scalable solutions that solve real-world problems"
 
 ---
 
-## 💻 **Development Stats**
+## 💻 **Competitive Programming**
 
 ```python
-class DeveloperStats:
+class CompetitiveProgrammer:
     def __init__(self):
-        self.projects_completed = 10+
-        self.model_accuracy_improvement = "30%+"
-        self.technologies_mastered = 10+
-        self.lines_of_code = "50,000+"
+        self.leetcode_solved = "150+"
+        self.codeforces_rating = 472
+        self.codechef_solved = "110+"
         
-    def current_focus(self):
+    def problem_solving_focus(self):
         return [
-            "Building scalable FastAPI backends",
-            "Computer Vision with TensorFlow",
-            "IoT system integrations",
-            "Real-time data processing"
+            "Data Structures & Algorithms",
+            "Dynamic Programming",
+            "Graph Algorithms",
+            "System Design"
         ]
         
-    def expertise_areas(self):
+    def platforms(self):
         return {
-            "backend": "FastAPI, Node.js, Flask",
-            "frontend": "React.js, Tailwind CSS",
-            "ai_ml": "TensorFlow, OpenCV, Scikit-learn",
-            "iot": "ESP32, Arduino, Raspberry Pi",
-            "databases": "MongoDB, MySQL, Firebase"
+            "leetcode": "150+ problems",
+            "codeforces": "Rating: 472",
+            "codechef": "110+ problems"
         }
+```
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
+
+</div>
+
+---
+
+## 🏆 **Hackathon Achievements**
+
+<div align="center">
+
+| Achievement | Details |
+|-------------|---------|
+| 🥇 **Red Bull Basement** | Secured Top 3 with real-world analytical solution |
+| 🥉 **Enduraverse'25** | 2nd Runner-Up among top 6 national teams |
+| 🔟 **TEM-E-THON'25** | Top 10 Finalist from 5,000+ applicants |
+| ✅ **Smart India Hackathon 2024** | Qualified internal round with scalable project |
+
+</div>
+
+---
+
+## 🎓 **Certifications & Learning**
+
+```javascript
+const certifications = {
+    cloud: [
+        "AWS Certified Cloud Practitioner (Foundational)",
+        "AWS Educate - Introduction to Generative AI",
+        "AWS Academy - Machine Learning Foundations"
+    ],
+    development: [
+        "Spring Boot React JS Full-Stack Course",
+        "The Complete SQL Bootcamp",
+        "GitHub Foundations"
+    ],
+    fundamentals: [
+        "Introduction to Database Systems (NPTEL)",
+        "Programming in Java (NPTEL)",
+        "Cognitive Class Python 101"
+    ]
+};
+
+console.log("Continuous learning is the key to growth! 📚");
 ```
 
 ---
@@ -142,44 +188,51 @@ class DeveloperStats:
 
 ---
 
-## 🤝 **Let's Build Together**
+## 💡 **Current Development Focus**
 
-<div align="center">
+```yaml
+current_stack:
+  backend: ["Spring Boot", "Microservices", "RESTful APIs"]
+  ml: ["Deep Learning", "Transformers", "RAG Models"]
+  cloud: ["AWS", "Docker", "Linux"]
+  
+building_next: "Scalable ML-powered backend systems"
 
-**Passionate about creating tech solutions that make a real impact!**  
-*Always open to collaborating on innovative projects and exciting opportunities.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavashesh/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavashesh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-new-theta-eight.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BunnySunny24)
-
-</div>
+exploring:
+  - Microservices Architecture
+  - Model Deployment & MLOps
+  - Cloud-native Applications
+  
+open_to_collaborate:
+  - Backend Development Projects
+  - ML/AI Applications
+  - Open Source Contributions
+  
+competitive_programming: "Active on LeetCode, Codeforces, CodeChef"
+```
 
 ---
 
-## 💡 **Current Development Focus**
+## 🤝 **Let's Connect**
 
-```javascript
-const currentlyWorking = {
-    primaryStack: ["FastAPI", "React", "TensorFlow", "ESP32"],
-    buildingNext: "Advanced IoT-ML integration platforms",
-    exploring: ["Edge AI", "Real-time analytics", "Blockchain integration"],
-    openToCollaborate: ["AI/ML projects", "IoT solutions", "Full-stack applications"],
-    hackathonReady: true,
-    mentoring: "Junior developers in AI/ML and full-stack development"
-};
+<div align="center">
 
-console.log("Let's build something amazing together! 🚀");
-```
+**Open to collaborating on innovative backend and ML projects!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavashesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BunnySunny24)
+[![Codolio](https://img.shields.io/badge/Codolio-FF5722?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/bhavashesh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bhavashesh)
+
+</div>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   
-  **"Code is poetry written in logic"** ✨  
-  **Thanks for stopping by! Let's create the future, one commit at a time** 🚀
+  **"Write code that speaks for itself"** ✨  
+  **Thanks for visiting! Let's build something amazing together** 🚀
   
   <img src="https://komarev.com/ghpvc/?username=BunnySunny24&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
