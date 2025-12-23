@@ -68,11 +68,17 @@ focus: "Building scalable microservices and ML-powered systems"
 
 <div align="center">
 
-| Project | Description | Tech Stack | Impact |
-|---------|-------------|------------|--------|
-| **🎭 DeepFake Audio-Video Detection** | Multimodal deepfake detection system | PyTorch, Swin Transformers, Wav2Vec2, EfficientNet, OpenCV, AWS EC2 | 94% accuracy on face swap, lip-sync detection |
-| **🏢 Department & Employee Management** | Full-stack CRUD system with relational data | Spring Boot, Spring Data JPA, MySQL, React | Efficient employee-department management |
-| **✅ TaskMate** | Secure task management platform | Spring Boot, Spring Security, JWT, MySQL, React | Role-based authentication & multi-user support |
+| Project | Description | Tech Stack | Impact | Links |
+|---------|-------------|------------|--------|-------|
+| **🎭 DeepFake Audio-Video Detection** | Multimodal deepfake detection with cross-modal transformers | Python, PyTorch, Swin Transformers, Wav2Vec2, EfficientNet, OpenCV, Linux | 94% accuracy on face swap, lip-sync, audio deepfakes | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#) |
+| **🏢 Department & Employee Management** | Full-stack CRUD system with relational data | Spring Boot, Spring Data JPA, MySQL, React | Efficient employee-department management | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#) |
+| **✅ TaskMate** | Secure task management platform | Spring Boot, Spring Security, JWT, MySQL, React | Role-based authentication & multi-user support | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#) |
+| **💰 RoomiePay** | Smart Expense Manager with Dual-Confirmation | React, MySQL, Python, JWT, RESTful APIs | Secure financial tracking with normalized schemas | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#) |
+| **🌾 AgriSync** | AI-Driven Smart Farming with Blockchain | React, FastAPI, TensorFlow, Solidity, Web3.js | 94.2% disease detection, 87% price forecast R² | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/AgriSync) |
+| **🚚 LogiStream** | Real-Time Logistics Intelligence with RAG | Python, Pathway, FAISS, Hugging Face Transformers, React | 99.7% accuracy, 93.4% fraud detection precision | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#) |
+| **🌾 AgriSync** | Smart Farming Platform with AI & Blockchain | FastAPI, React, TensorFlow, Ethereum | 89% crop spoilage reduction | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/AgriSync) |
+| **💧 BluePulse** | IoT-Based Water Conservation System | IoT, React, ML, FastAPI | 22% water waste reduction | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/BluePulse) |
+| **📚 QuestEd** | Personalized Learning Platform | FastAPI, Gemini AI, React, Firebase | 130+ users, 27% quiz improvement | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/BunnySunny24/QuestEd) |
 
 </div>
 
