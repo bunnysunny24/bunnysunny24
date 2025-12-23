@@ -228,7 +228,7 @@ competitive_programming: "Active on LeetCode, Codeforces, CodeChef"
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavashesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BunnySunny24)
 [![Codolio](https://img.shields.io/badge/Codolio-FF5722?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/bhavashesh)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bhavashesh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/bunnysunny24/)
 
 </div>
 
