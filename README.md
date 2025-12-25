@@ -198,7 +198,7 @@ console.log("Continuous learning is the key to growth! 📚");
 
 ```yaml
 current_stack:
-  backend: ["Spring Boot", "Microservices", "RESTful APIs"]
+  backend: ["Spring Boot", "Spring Security", "RESTful APIs"]
   ml: ["Deep Learning", "Transformers", "RAG Models"]
   cloud: ["AWS", "Docker", "Linux"]
   
